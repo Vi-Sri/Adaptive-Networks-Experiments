@@ -1,0 +1,6 @@
+*/__pycache__
+.conda
+*.pt
+*.pth
+*.hdf5
+*.pkl
