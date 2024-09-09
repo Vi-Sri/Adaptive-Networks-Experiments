@@ -15,3 +15,8 @@ thumbs.db
 .DS_Store
 .idea
 .vscode
+dataset
+*.mp4
+*.txt
+*.csv
+out-*
